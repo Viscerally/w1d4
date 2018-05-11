@@ -3,9 +3,9 @@ var input = [
     { x: 12, y: 5 },
     { x: 8, y: 15 }
   ];
-  var result = input.map(function(){
-      console.log(arguments);
-  });
+//   var result = input.map(function(){
+//       console.log(arguments);
+//   });
   
   
   
